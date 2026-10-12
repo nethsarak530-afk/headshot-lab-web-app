@@ -1,0 +1,5 @@
+headshot-lab.tar.gz
+android/.gradle/
+android/app/build/
+*.iml
+.idea/
